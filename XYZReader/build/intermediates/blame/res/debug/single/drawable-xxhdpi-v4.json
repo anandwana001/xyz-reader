@@ -80,12 +80,12 @@
         "source": "C:\\Users\\dell\\.android\\build-cache\\cfef1ba51e1f1d5278491f63f6a07e34c4d3ebc8\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\design_ic_visibility_off.png",
-        "source": "C:\\Users\\dell\\.android\\build-cache\\087a44a5968f9e6004dc70b68c576569bbc9c052\\output\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
         "merged": "C:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png",
         "source": "C:\\Users\\dell\\.android\\build-cache\\cfef1ba51e1f1d5278491f63f6a07e34c4d3ebc8\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\087a44a5968f9e6004dc70b68c576569bbc9c052\\output\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",

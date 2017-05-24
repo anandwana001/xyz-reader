@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling.xml",
+        "source": "C:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\src\\main\\res\\menu\\menu_scrolling.xml"
     }
 ]

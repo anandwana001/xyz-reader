@@ -1,7 +1,7 @@
-#Wed May 24 09:38:52 IST 2017
+#Wed May 24 12:11:04 IST 2017
 base.0=C\:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b7bab2ea02396de88cdf5c5d184803c7c170eba8
-renamed.1=classes2.dex
-renamed.0=classes.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
 file.1=C\:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_905402e9c84e9227ed8bf3967684b89bfcce986f\\classes.dex
 base.1=C\:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_905402e9c84e9227ed8bf3967684b89bfcce986f
 file.0=C\:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b7bab2ea02396de88cdf5c5d184803c7c170eba8\\classes.dex

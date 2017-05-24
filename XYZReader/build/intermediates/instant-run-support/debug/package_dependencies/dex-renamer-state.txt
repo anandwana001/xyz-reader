@@ -1,4 +1,4 @@
-#Wed May 24 07:53:13 IST 2017
+#Wed May 24 10:20:05 IST 2017
 file.2=C\:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e9efe8287fcb078d50b2402e006292bd9cc1b0e7\\classes.dex
 base.2=C\:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e9efe8287fcb078d50b2402e006292bd9cc1b0e7
 file.1=C\:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_df393af8ef3a0426e76f96f6d8c8e7fb75bd9ee7\\classes.dex

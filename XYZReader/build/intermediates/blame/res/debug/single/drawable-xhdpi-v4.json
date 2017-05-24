@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\dell\\.android\\build-cache\\cfef1ba51e1f1d5278491f63f6a07e34c4d3ebc8\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "C:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
         "source": "C:\\Users\\dell\\.android\\build-cache\\cfef1ba51e1f1d5278491f63f6a07e34c4d3ebc8\\output\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\cfef1ba51e1f1d5278491f63f6a07e34c4d3ebc8\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\dell\\Documents\\GitHub\\xyz-reader-starter-code\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
